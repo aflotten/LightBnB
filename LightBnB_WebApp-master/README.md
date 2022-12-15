@@ -43,6 +43,10 @@
   * `database.js` is responsible for all queries to the database. It doesn't currently connect to any database, all it does is return data from `.json` files.
 
   ## Screen Shots
+  
+  # Database ERD
+  <img width="838" alt="LightBnB_erd" src="https://user-images.githubusercontent.com/87041176/207764755-d5e56fed-dd53-4e0b-be8e-876037fef16f.png">
+
 
   # LightBnB's home screen!
   <img width="1217" alt="LightBnB_Homepage" src="https://user-images.githubusercontent.com/87041176/207763329-435246fb-62f0-47f2-9f25-9daa324970cc.png">
