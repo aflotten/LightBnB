@@ -45,10 +45,10 @@
   ## Screen Shots
 
   # LightBnB's home screen!
-  LightBnB_Homepage.png
+  <img width="1217" alt="LightBnB_Homepage" src="https://user-images.githubusercontent.com/87041176/207763329-435246fb-62f0-47f2-9f25-9daa324970cc.png">
 
   # Add property page once a user is logged in.
-  LightBnb_addProperty.png
-
+<img width="945" alt="LightBnb_addProperty" src="https://user-images.githubusercontent.com/87041176/207763277-86e53172-f014-4d60-a720-7fd9e05db35a.png">
+  
   # Filter listings by desired parameters!
-  LightBnB_searchParameters.png
+<img width="1116" alt="LightBnB_searchParameters" src="https://user-images.githubusercontent.com/87041176/207763369-dace6b82-b565-4d46-8b8d-ea24baf13edc.png">
